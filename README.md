@@ -1,24 +1,33 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Front-End-Developer-blue?style=for-the-badge&logo=visual-studio-code" alt="Front-End Developer"/>
+ <img src="https://img.shields.io/badge/Front--End-Developer-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Front-End Developer" />
+
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
 </p>
 
 <h1 align="center">Hi, I'm Rihan Hadla 👋</h1>
+
 <p align="center">
-  <em>A passionate Front-End Developer creating interactive & responsive web experiences</em>
+  <a href="https://tranquil-crepe-33fa8c.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Website-green?style=for-the-badge&logo=firefox" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/rihan-hadla-59b8ba332/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:rihanhadla@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
 
-## 🌐 About Me
+## 🌟 About Me
 
-I'm a **Front-End Developer** from Syria, dedicated to building **modern, clean, and responsive web applications**.  
-I enjoy turning ideas into interactive digital experiences using cutting-edge web technologies.
+I'm a **Front-End Developer** focused on building modern, responsive, and user-friendly web applications.  
+I love turning ideas into interactive experiences using the latest web technologies.  
 
-- 📍 **Location:** Syria  
-- 💻 **Focus:** Clean & Responsive UI, UX-friendly design  
-- 🔹 **Skills:** HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap  
-- 🔧 **Tools:** VS Code, Git, GitHub, Chrome DevTools  
+- 🔹 **Location:** Turkye  
+- 🔹 **Languages & Frameworks:** HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap  
+- 🔹 **Tools:** VS Code, Git, GitHub, Chrome DevTools  
 
 ---
 
@@ -32,19 +41,6 @@ I enjoy turning ideas into interactive digital experiences using cutting-edge we
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
-
----
-
-## 💼 Projects
-
-Here are some of my highlighted projects:
-
-| Project | Description | Demo |
-|---------|-------------|------|
-| Personal Portfolio | Modern responsive portfolio with React.js & Tailwind CSS | [View Site](https://tranquil-crepe-33fa8c.netlify.app/) |
-| [Add your project] | Short description here | [Link] |
-
-*More projects coming soon…*
 
 ---
 
@@ -64,7 +60,5 @@ Here are some of my highlighted projects:
 
 ---
 
-## ✨ Quote
-
-> “Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
