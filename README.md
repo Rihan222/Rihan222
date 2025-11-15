@@ -24,7 +24,7 @@
 I'm a **Front-End Developer** focused on building modern, responsive, and user-friendly web applications.  
 I love turning ideas into interactive experiences using the latest web technologies.  
 
-- 🔹 **Location:** Syria  
+- 🔹 **Location:** Turkye  
 - 🔹 **Languages & Frameworks:** HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap  
 - 🔹 **Tools:** VS Code, Git, GitHub, Chrome DevTools  
 
