@@ -1,43 +1,50 @@
-# 👋 Hello there! I'm Rihan Hadla
+# Hi, I'm Rihan Hadla 👋
 
-**A passionate Front-End Developer crafting beautiful and functional user experiences.**
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LmN9bDVAkm8iqwB28Q/giphy.gif" alt="Coding GIF" width="300"/>
-</p>
+I'm a **Front-End Developer** passionate about creating interactive and responsive web experiences. I specialize in building modern websites using the latest web technologies.
 
 ---
 
-## 💻 My Frontend Toolkit & Skills
+## 🔹 About Me
 
-I specialize in building responsive, modern, and high-performance web applications. Here are the core technologies and frameworks I work with:
-
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Languages** | HTML5, CSS3, JavaScript (ES6+) |
-| **Frameworks/Libraries** | **React.js**, **Tailwind CSS**, Bootstrap |
-| **Styling/Preprocessors** | CSS, Tailwind CSS, Bootstrap |
-| **Version Control** | Git, GitHub |
-| **Others** | Responsive Design, API Integration, Clean Code Principles |
+- 🌐 Front-End Developer
+- 💻 Skills: HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap
+- 🎯 Focused on clean, modern, and responsive designs
+- 📍 Based in Syria
 
 ---
 
-## 🚀 Projects & Portfolio
+## 🛠 Skills
 
-* **Personal Website:** Check out my latest work and learn more about me here.
-    * [**Visit my Portfolio**](https://tranquil-crepe-33fa8c.netlify.app/)
+| Frontend | Styling | Frameworks & Libraries |
+|----------|--------|----------------------|
+| HTML5    | CSS3   | React.js             |
+| JavaScript | Tailwind CSS | Bootstrap     |
+
+---
+
+## 🌐 My Portfolio
+
+Check out my personal website to see my projects and experience:  
+[🌟 My Website](https://tranquil-crepe-33fa8c.netlify.app/)
 
 ---
 
-## 📬 Get In Touch
+## 📫 Connect with Me
 
-I'm always open to discussing new projects, interesting opportunities, or just sharing ideas. Feel free to reach out!
-
-* **Email:** [rihanhadla@gmail.com](mailto:rihanhadla@gmail.com)
-* **LinkedIn:** [Rihan Hadla](https://www.linkedin.com/in/rihan-hadla-59b8ba332/)
-* **Telegram:** [@rihan_hadla](t.me/rihan_hadla)
+- Telegram: [t.me/rihan_hadla](https://t.me/rihan_hadla)  
+- Email: [rihanhadla@gmail.com](mailto:rihanhadla@gmail.com)  
+- LinkedIn: [linkedin.com/in/rihan-hadla-59b8ba332](https://www.linkedin.com/in/rihan-hadla-59b8ba332/)
 
 ---
+
+## 💡 Fun Fact
+
+I love turning ideas into interactive websites and continuously learning new tools to improve user experiences.  
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
 
 > *"The art of coding is in the details, and I strive for pixel-perfect results."*
 
