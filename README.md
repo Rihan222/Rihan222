@@ -7,7 +7,7 @@
 <h1 align="center">Hi, I'm Rihan Hadla 👋</h1>
 
 <p align="center">
-  <a href="https://tranquil-crepe-33fa8c.netlify.app/">
+  <a href="https://rihan-codes.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-View%20Website-green?style=for-the-badge&logo=firefox" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/rihan-hadla-59b8ba332/">
